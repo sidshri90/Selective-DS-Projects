@@ -1,0 +1,6 @@
+Banknote_ID,Length_mm,Height_mm,Status,Aspect_Ratio,Audit_Flag
+NOTE-01,156.2,74.1,Verified,2.108,False
+NOTE-02,156.07,73.9,Pending,2.1119,True
+NOTE-03,155.9,74.0,Verified,2.1068,False
+NOTE-04,156.5,74.1,Anomalous,2.112,True
+NOTE-05,156.1,74.2,Verified,2.1038,True
