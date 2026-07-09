@@ -1,0 +1,6 @@
+Transaction_ID,Region,Metric_Score
+TXN101,East,88.5
+TXN102,West,92.0
+TXN103,East,85.0
+TXN104,North,79.1
+TXN105,South,84.6
