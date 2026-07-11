@@ -33,11 +33,11 @@ Bridges the gap between raw programmatic logic and high-performance vector compu
 ---
 
 ## 📂 Repository Structural Layout
-
-├── .gitignore                          # Core version control exclusion tracking configuration 
-├── 02_pandas_operational_analytics.ipynb # Advanced Pandas analysis data frame logic 
-├── banknote_quality_audit_report.csv    # Source data file: Production quality metrics 
-├── carrier_performance_scorecard.csv     # Source data file: Logistics and tracking metrics 
-├── device_sentiment_performance_report.csv # Source data file: Sentiment metrics array 
-├── sanitized_operational_metrics.csv    # Source data file: Cleaned system metrics 
-└── README.md                           # Strategic executive project documentation 
+```text
+├── .gitignore                          # Core version control exclusion tracking configuration
+├── 02_pandas_operational_analytics.ipynb # Advanced Pandas analysis data frame logic
+├── banknote_quality_audit_report.csv    # Source data file: Production quality metrics
+├── carrier_performance_scorecard.csv     # Source data file: Logistics and tracking metrics
+├── device_sentiment_performance_report.csv # Source data file: Sentiment metrics array
+├── sanitized_operational_metrics.csv    # Source data file: Cleaned system metrics
+└── README.md                           # Strategic executive project documentation
